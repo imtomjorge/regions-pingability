@@ -1,3 +1,5 @@
+##### This PHP software is currently outdated, and not functional as described below. It will ping your registered servers/locations from the server where is hosted this Docker Container.
+
 # Regions Pingability
 
 Regions Pingability is an opensource tool developed in PHP, to help cloud providers customers, in the choice of their server region. With this tool, you can make a cloud ping similar page. You have so many settings to personalize this tools, with visual identity of your brand. You can add up to 3 endpoint (url, or ip). Your customer will be advised about the best server/cloud location for his project. 
@@ -5,6 +7,8 @@ Regions Pingability is an opensource tool developed in PHP, to help cloud provid
 ![screenshot-region-pingability](https://zupimages.net/up/20/05/dmmu.png)
 
 If you're looking to host this app, or many other, you can look at [Scaleway](https://scaleway.com).
+
+
 
 
 ## Automated installation via Docker
